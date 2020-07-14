@@ -1,1 +1,1 @@
-SMS
+# Django sms sender
