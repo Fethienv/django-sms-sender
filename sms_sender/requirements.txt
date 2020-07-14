@@ -1,0 +1,9 @@
+uwsgi
+gunicorn
+django
+django_uwsgi
+pycryptodome
+huawei_lte_api
+djangorestframework 
+markdown
+django-filter
